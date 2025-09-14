@@ -79,8 +79,7 @@ Players interact with the system by placing magnetic pieces on a physical board,
 
 ## Demo
 
-- **Video/GIF demo link here**  
-- **Images of hardware setup here**
+![Go Board Setup](Demos/GO_Board_Photo.jpg)
 
 ---
 
